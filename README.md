@@ -4,7 +4,7 @@ Reflex agent trained with <b>reinforcement learning.</b> This agent plays coin d
 
 # Game Rules
 ![gameView_1](./readme_image/gameView_1.PNG)
-![gameView_2](./readme_image/gameView_2.PNG)
 ![gameView_3](./readme_image/gameView_3.PNG)
 ![gameView_4](./readme_image/gameView_4.PNG)
 ![gameView_5](./readme_image/gameView_5.PNG)
+![gameView_2](./readme_image/gameView_2.PNG)
