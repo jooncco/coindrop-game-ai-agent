@@ -189,7 +189,6 @@ def main():
     parser.add_argument("-m", "--model", help="your model file",
                     type=str, default="model_q.pkl")
 
-
     args = parser.parse_args()
 
     show = args.show is 1
